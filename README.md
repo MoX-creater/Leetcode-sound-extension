@@ -12,7 +12,7 @@
    - Go to `chrome://extensions/` (or `edge://extensions/`).
    - Enable **Developer Mode** (usually a toggle in the top right corner).
    - Click on **Load unpacked**.
-   - Select the folder: `c:\Users\Lenovo\OneDrive\Desktop\dev\ex\leetcode-sound-extension`.
+   - Select the folder: `leetcode-sound-extension`.
 
 3. **Enjoy!**
    - Head over to LeetCode and solve a problem. 
