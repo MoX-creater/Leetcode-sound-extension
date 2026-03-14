@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 1. **Add Your Audio Files**:
-   - Go to `c:\Users\Lenovo\OneDrive\Desktop\dev\ex\leetcode-sound-extension`
+   - Go to `\leetcode-sound-extension`
    - You will see two empty placeholder files: `success.mp3` and `error.mp3`.
    - Replace these files with your own audio files. **Make sure they are named EXACTLY `success.mp3` and `error.mp3`**!
    
